@@ -7,6 +7,7 @@
 ###### 열심히 하겠습니다 :)
 
 - Email : <wjsrmsdn7@naver.com>
+- 
 - portfolios : <https://github.com/JeonGW7/portfolios>
 <br><br/>
 ## Skills
