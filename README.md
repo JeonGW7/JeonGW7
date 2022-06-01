@@ -7,7 +7,7 @@
 ###### 열심히 하겠습니다 :)
 
 - Email : <wjsrmsdn7@naver.com>
-- 
+- Phone : +82 10 9963 7577
 - portfolios : <https://github.com/JeonGW7/portfolios>
 <br><br/>
 ## Skills
