@@ -8,7 +8,7 @@
 
 - Email : <wjsrmsdn7@naver.com>
 
-
+<br>
 ### Skills
 ##### Backend
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -24,9 +24,9 @@
 
 ### Education
 ##### 상명대학교 컴퓨터과학과 (2015.03~2022.02)
-<br><br/>
-##### 더조은컴퓨터학원 
-###### (빅데이터 전문가) 빅데이터활용 자바,파이썬 개발자 양성 과정 (2021.12~2022.06)
+<br>
+##### 더조은컴퓨터학원 (2021.12~2022.06)
+###### (빅데이터 전문가) 빅데이터활용 자바,파이썬 개발자 양성 과정 
 - UI 기술검증 및 표준과 지침을 작성, 설계하고 UI 네비게이션과 화면폼을 구현
 - 데이터베이스 기술 수립 및 SQL활용, 관리, 백업 및 복구, 성능 튜닝 기술 수립
 - 어플리케이션 구현을 위한 기능 및 구조 상세, 타 시스템 연동에 대한 설계 및 프로그램을 코딩하고 단위테스트 수행
